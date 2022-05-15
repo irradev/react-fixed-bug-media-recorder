@@ -33,7 +33,7 @@ export default function App() {
         setIsRecording(false)
       }
     }
-    setIsRecording(true)
+    setIsRecording(true);
   }
 
   useEffect(
